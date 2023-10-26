@@ -1,0 +1,10 @@
+Conteúdo abordado:
+
+- hmtl
+- css
+- flexbox
+- atomic design
+- BEM (Block Element Modifier)
+  bloco elemento modificador
+  bloco__elemento--modificador 
+- responsividade (@media screen)	
