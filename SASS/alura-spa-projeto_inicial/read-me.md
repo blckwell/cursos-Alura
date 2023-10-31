@@ -11,3 +11,6 @@ Nesta aula:
 -------------------------------- :: ---------------------------------------------------
 - Modularizamos os códigos de estilo criando a partial de serviço e cupom;
 - Aplicamos os estilos nas imagens e nos textos melhorando a visibilidade do SPA. 
+--------------------------------- :: -------------------------------------------------
+- Finalizamos a sessão de descontos, estilizando o input e o botão para cadastrar o email;
+- Estilizamos o footer da aplicação com um arquivo .sass e vimos como aplicar sintaxe recuada de forma prática.
